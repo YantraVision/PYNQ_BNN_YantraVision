@@ -1,0 +1,4 @@
+
+1. To prepare data for training, convert them to Binary Images.
+2. Run python LFC_Dataset_Preperation.py -list <file list name>
+
