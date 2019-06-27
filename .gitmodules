@@ -1,0 +1,3 @@
+[submodule "BNN-PYNQ"]
+	path = BNN-PYNQ
+	url = https://github.com/Xilinx/BNN-PYNQ
